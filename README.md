@@ -1,7 +1,7 @@
 # Dotillism-AppStore
 A casual zen game about colours.
 
-Available for iPhone, iPad and Apple Watch.
+Available for iPhone.
 
 <img height="50" alt="appstore1024" src="https://user-images.githubusercontent.com/55358113/174026809-3b9400e2-713d-4442-909a-4cbb16cffd72.png"> [<img src="https://user-images.githubusercontent.com/55358113/174020637-ca23803f-341c-48ce-b896-1fd4b7423310.svg" height="50">](https://apps.apple.com/it/app/dotillism/id1611775193?l=en)
 
